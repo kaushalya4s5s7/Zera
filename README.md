@@ -55,21 +55,14 @@ Everything is stored and processed securely — no manual intervention required.
 
 
 - **Testing**: Hardhat, Foundry, Truffle
-- **Frontend**: (If applicable) React/Next.js
+- **Frontend**: React/Next.js
 - **Security**: Automated audits & vulnerability scans
-- **Blockchain**: Smart Contract deployed on BNB Smart Chain (BSC) (address:0x311799344e53106315cbDe72649d7eD8De9A1bfA)
+- **Blockchain**: Smart Contract deployed on BNB Smart Chain (BSC) ( address:0x311799344e53106315cbDe72649d7eD8De9A1bfA )
 - **AI**: Mistral LLM API
 
 ---
 
 ## 🔧 Getting Started
-
-### 📦 Prerequisites
-- Python 3.8+
-- Node.js
-- pip
-- Git
-- BNB Smart Chain Wallet (for deployment/testing)
 
 ### 📥 Installation
 ```bash

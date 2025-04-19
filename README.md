@@ -1,4 +1,4 @@
-# ⚡ Zera: Revolutionizing Smart Contract Security on BNB Smart Chain
+# ⚡ Zera: Revolutionizing Smart Contract Security
 
 **Zera** is a powerful AI-powered platform designed to streamline and secure smart contract development. In a world where smart contracts manage billions of dollars and security breaches cost millions, Zera is built to deliver **intelligent automation**, **comprehensive auditing**, and **secure contract development** — all in one platform.
 
@@ -60,4 +60,43 @@ Everything is stored and processed securely — no manual intervention required.
 - **Blockchain**: Smart Contract deployed on BNB Smart Chain (BSC)
 - **AI**: Mistral LLM API
 
+---
 
+## 🔧 Getting Started
+
+### 📦 Prerequisites
+- Python 3.8+
+- Node.js
+- pip
+- Git
+- BNB Smart Chain Wallet (for deployment/testing)
+
+### 📥 Installation
+```bash
+git clone https://github.com/kaushalya4s5s7/Zera.git
+
+```
+Run:
+```
+cd sol-hub
+npm install
+npm run dev
+```
+
+📫 Contact
+Have questions or need support?
+
+📩 Email: zeraaihelp@gmail.com
+🌐 Visit: zera-707t.onrender.com
+
+📢 Contributing
+We welcome community collaboration!
+
+📁 Fork the repository
+
+🛠 Create a feature branch
+
+✅ Submit a pull request with detailed explanation!
+
+📜 License
+This project is licensed under the MIT License.

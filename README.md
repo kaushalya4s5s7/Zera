@@ -38,7 +38,7 @@ Smart contracts power DeFi, NFTs, DAOs — yet they remain vulnerable. From the 
 ## 🌐 Platform Workflow
 ![image](https://github.com/user-attachments/assets/2a1abd28-e248-42cc-9539-123ba50f27c3)
 
-1. **Login to Zera Dashboard**
+1. **Connect Wallet**
 2. **Generate Contracts** using AI prompts
 3. **Run Audits** powered by Mistral LLM
 4. **View Audit Reports** and patch vulnerabilities
@@ -57,7 +57,7 @@ Everything is stored and processed securely — no manual intervention required.
 - **Testing**: Hardhat, Foundry, Truffle
 - **Frontend**: (If applicable) React/Next.js
 - **Security**: Automated audits & vulnerability scans
-- **Blockchain**: Smart Contract deployed on BNB Smart Chain (BSC)
+- **Blockchain**: Smart Contract deployed on BNB Smart Chain (BSC) (address:0x311799344e53106315cbDe72649d7eD8De9A1bfA)
 - **AI**: Mistral LLM API
 
 ---
